@@ -1,0 +1,333 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+      "main_ads_banner": "null",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"null",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"null",
+      "open_ads_admob":"null",
+      "open_ads_alien":"null",
+      "open_ads_max":"null",
+      "interval_intertitial": 9,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":"2"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Enchanting Deer Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/4duhdqFg5KOz5K77nY-U8NKI00TvveSj8kUMrCddo8Gxyz6PAYyLFU0RD1g20oocloE=w2560-h1440-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.rintjong.whitetaileddeer"
+    },
+    {
+      "id":2,
+      "title":"Blooming Daisy Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/MfkZ_4y0xRNv77vVkTYI0AOxgVgXUW7xCYXChm7YMTDvNMSgeBqx5c6IR6DKi_hmDA=w526-h296-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.rintjong.daisyflowerwallpaper"
+    },
+    {
+      "id":3,
+      "title":"Thrilling Speedboat Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/RWyAPL8gM47jewkU6yOgLaJfE1Y9N_A1FGojcncaVme7GbttGG7MwG14N6cnkl0WVg=w2560-h1440-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.rintjong.speedboatracingwallpaper"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Dinosaur",
+      "image": "https://i.pinimg.com/564x/bf/d9/b0/bfd9b08addaeede746030848f8c51d8f.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/93/63/17/936317abe317d0c15416936f8d560d5d.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Dinosaur",
+      "title": "Dinosaur",
+      "image": "https://i.pinimg.com/564x/c9/c7/86/c9c786c050931caaedd9034df659c309.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/35/84/3d/35843d2223bb7ae95305de73a36048ad.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/ee/1c/e7/ee1ce74aa067684baa5f66b271e90a24.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/ed/ec/71/edec712fd1056dd2ba7fa182b7088f97.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/eb/98/2f/eb982f7d49e303b6fad5137e2b45f88c.jpg"
+    },
+	{
+      "id":7,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/34/05/cd/3405cdb98d65d7dd6f2b5d04168d9511.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Dinosaur",
+      "title": "Dinosaur",
+      "image": "https://i.pinimg.com/564x/7b/10/f9/7b10f9ef90c96ab978311d3e5baf4ba8.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/a0/f6/a9/a0f6a9854472d589776982192f8886ae.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/9e/7b/44/9e7b44ca8f6a32259f68c43246d5d938.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/4b/b0/9c/4bb09c65d8d414e1ed574b0a2fdee9d0.jpg"
+    },
+	{
+      "id":12,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/16/b8/1c/16b81cdee6e6679bdddbfc2c535388bd.jpg"
+    },
+    {
+      "id": 13,
+      "name_category": "Dinosaur",
+      "title": "Dinosaur",
+      "image": "https://i.pinimg.com/564x/21/8d/c7/218dc7546e0c5355501a84a85eb95414.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/be/c5/04/bec50494d5bed66dcbef87ed3cb14a56.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/64/a3/b4/64a3b4237ac0f181264de22dd3b9de77.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/2c/b6/de/2cb6de5be364b9b139d60914eda769cf.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/a0/ba/71/a0ba71447deaeab110995454ee159548.jpg"
+    },
+	{
+      "id":18,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/d1/18/80/d11880e890b5ef39854d3dcbc32aee5b.jpg"
+    },
+    {
+      "id": 19,
+      "name_category": "Dinosaur",
+      "title": "Dinosaur",
+      "image": "https://i.pinimg.com/564x/f6/a5/11/f6a511f029e48ee39ff15b51625d038a.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/1d/bc/33/1dbc33561452f1e78f056aeed7a421ba.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/7d/03/08/7d03088bbe5528e6e1a10cc9ee7e930e.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/d4/55/57/d4555754d02e74fb154d1df58f63f2db.jpg"
+    },
+	{
+      "id":23,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/c4/70/c2/c470c253e0d684992e1b360bb1f9fa6a.jpg"
+    },
+
+    {
+      "id":25,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/33/c4/bf/33c4bf283684a4160596dcf88c4d940f.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/06/c9/8a/06c98acc76efcaf4ac50d1b1a3cf77a2.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/ee/8a/d9/ee8ad9a9f3ba5e23394b29c6f446e22a.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/f3/85/06/f385067e0b02d09b409a0aa39f265548.jpg"
+    },
+	{
+      "id":29,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/45/d8/fb/45d8fb1e53e8aa8c5bec36c77c7919cc.jpg"
+    },
+    {
+      "id": 30,
+      "name_category": "Dinosaur",
+      "title": "Dinosaur",
+      "image": "https://i.pinimg.com/564x/06/a9/db/06a9db21dd7ac22ae8eea5aa608039ac.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/35/4b/93/354b937886a3a9ca191ea6735434ad01.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/ce/3a/95/ce3a95e46f8badb82c9cd7bd024ed08e.jpg"
+    },
+	{
+      "id":33,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/df/5d/b7/df5db7284dd003037055415bdc110d5f.jpg"
+    },
+    {
+      "id": 34,
+      "name_category": "Dinosaur",
+      "title": "Dinosaur",
+      "image": "https://i.pinimg.com/564x/c2/4a/33/c24a33ec7a535d7b2c39a39c70c286b0.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/9b/4d/53/9b4d53c9545e526d67f28d575fc50d0e.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/f2/ee/48/f2ee4895393df84430347c0434695859.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/c9/8c/fc/c98cfc14a89df6f5a73f766a5c64b6e9.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/ac/48/52/ac4852a12912ad23865fb49f7c475993.jpg"
+    },
+	{
+      "id":39,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/8b/cd/c6/8bcdc6a5f95eb5fc70157d3eeb8b28c4.jpg"
+    },
+    {
+      "id": 40,
+      "name_category": "Dinosaur",
+      "title": "Dinosaur",
+      "image": "https://i.pinimg.com/564x/e6/28/85/e62885ca8a95f429b47f8802d5a4c373.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/6e/17/c0/6e17c0e1aa0614e74f1e799c9fd0ef90.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/a0/63/bd/a063bdfe4031dc63fa1b57ba0961df7e.jpg"
+    },
+	{
+      "id": 43,
+      "name_category": "Dinosaur",
+      "title": "Dinosaur",
+      "image": "https://i.pinimg.com/564x/28/52/58/285258aa029c518f50517599eeeb8db1.jpg"
+    },
+	{
+      "id": 44,
+      "name_category": "Dinosaur",
+      "title": "Dinosaur",
+      "image": "https://i.pinimg.com/564x/e2/ad/aa/e2adaa3d2ac0a1eb80977a894771da93.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/6a/08/19/6a081934194eb3388fbeda6ef7dec297.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "Dinosaur",
+      "title":"Dinosaur",
+      "image":"https://i.pinimg.com/564x/bf/d9/b0/bfd9b08addaeede746030848f8c51d8f.jpg"
+    }
+  ]
+}
